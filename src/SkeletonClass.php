@@ -1,11 +1,11 @@
 <?php
 
-namespace League\Skeleton;
+namespace :vendor_name_cap\:package_name_cap;
 
 class SkeletonClass
 {
     /**
-     * Create a new Skeleton Instance
+     * Create a new :package_name_cap Instance
      */
     public function __construct()
     {

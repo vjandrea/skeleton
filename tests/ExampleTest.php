@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Skeleton\Test;
+namespace :vendor_name_cap\:package_name_cap\Test;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {
